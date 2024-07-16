@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419767925638",
+    "project_id": "prince-test-app",
+    "storage_bucket": "prince-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419767925638:android:7b425564a4310204d00a07",
+        "android_client_info": {
+          "package_name": "io.princesworld.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVZXb5eDCYTquramz-SNSsUi0gSDFmLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
